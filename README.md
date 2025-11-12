@@ -24,10 +24,6 @@ The design encompasses the following core user flows and screens:
 * **My Leagues:** Dashboard for tracking progress in joined contests and monitoring real-time scores.
 * **Private League Creation:** Component for setting custom rules, entry fees, and invitation links.
 
-### 📈 Trading & Financial Component (Intraday)
-* **Trading Dashboard:** Overview of current portfolio, balance, and real-time market movement graphs.
-* **Intraday Trading Banner:** Promotional UI component for boosting trading balance and offers.
-* **Transaction History:** Log of deposits, withdrawals, and contest earnings.
 
 ### 🎨 Core UI Elements
 * **Navigation:** Mobile-first bottom navigation bar and persistent header elements.
